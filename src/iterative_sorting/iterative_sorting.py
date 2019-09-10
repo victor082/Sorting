@@ -13,7 +13,7 @@ def selection_sort(arr):
     # loop through each element
     # Find the smallest element in the unsorted
     # Put the smallest element at the end of the sorted
-    # Swap the frirst element of unsorted with the smallest element
+    # Swap the first element of unsorted with the smallest element
 
 # TO-DO:  implement the Bubble Sort function below
 
