@@ -31,9 +31,13 @@ def bubble_sort(arr):
                 arr[i], arr[i+1] = arr[i+1], arr[i]
                 swapped = True
     return arr
-
+# While swap is true, it goes to false which then runs the for loop.
+# if the arr[i] is greater than arr[i+1] it then swaps.
+# then the swap goes back to true and repeats the loop.
 
 # STRETCH: implement the Count Sort function below
+
+
 def count_sort(arr, maximum=-1):
 
     return arr
